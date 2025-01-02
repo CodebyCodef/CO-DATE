@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\db_api",
+    "\\db_api\\db_api",
+    "\\db_api\\db_api\\Controllers",
+    "\\db_api\\db_api\\Models"
+  ],
+  "SelectedNode": "\\db_api\\db_api\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}

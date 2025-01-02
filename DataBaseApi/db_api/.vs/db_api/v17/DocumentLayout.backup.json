@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\codef\\Desktop\\CODATE\\DataBaseApi\\db_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC22EDD-9A24-4453-B2E1-60FC4B2BF39F}|db_api\\db_api.csproj|c:\\users\\codef\\desktop\\codate\\databaseapi\\db_api\\db_api\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC22EDD-9A24-4453-B2E1-60FC4B2BF39F}|db_api\\db_api.csproj|solutionrelative:db_api\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC22EDD-9A24-4453-B2E1-60FC4B2BF39F}|db_api\\db_api.csproj|c:\\users\\codef\\desktop\\codate\\databaseapi\\db_api\\db_api\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC22EDD-9A24-4453-B2E1-60FC4B2BF39F}|db_api\\db_api.csproj|solutionrelative:db_api\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC22EDD-9A24-4453-B2E1-60FC4B2BF39F}|db_api\\db_api.csproj|c:\\users\\codef\\desktop\\codate\\databaseapi\\db_api\\db_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EC22EDD-9A24-4453-B2E1-60FC4B2BF39F}|db_api\\db_api.csproj|solutionrelative:db_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC22EDD-9A24-4453-B2E1-60FC4B2BF39F}|db_api\\db_api.csproj|c:\\users\\codef\\desktop\\codate\\databaseapi\\db_api\\db_api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC22EDD-9A24-4453-B2E1-60FC4B2BF39F}|db_api\\db_api.csproj|solutionrelative:db_api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC22EDD-9A24-4453-B2E1-60FC4B2BF39F}|db_api\\db_api.csproj|c:\\users\\codef\\desktop\\codate\\databaseapi\\db_api\\db_api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC22EDD-9A24-4453-B2E1-60FC4B2BF39F}|db_api\\db_api.csproj|solutionrelative:db_api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC22EDD-9A24-4453-B2E1-60FC4B2BF39F}|db_api\\db_api.csproj|c:\\users\\codef\\desktop\\codate\\databaseapi\\db_api\\db_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC22EDD-9A24-4453-B2E1-60FC4B2BF39F}|db_api\\db_api.csproj|solutionrelative:db_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\codef\\Desktop\\CODATE\\DataBaseApi\\db_api\\db_api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "db_api\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\codef\\Desktop\\CODATE\\DataBaseApi\\db_api\\db_api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "db_api\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:22:54.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\codef\\Desktop\\CODATE\\DataBaseApi\\db_api\\db_api\\Program.cs",
+              "RelativeDocumentMoniker": "db_api\\Program.cs",
+              "ToolTip": "C:\\Users\\codef\\Desktop\\CODATE\\DataBaseApi\\db_api\\db_api\\Program.cs",
+              "RelativeToolTip": "db_api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:35:21.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\codef\\Desktop\\CODATE\\DataBaseApi\\db_api\\db_api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "db_api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\codef\\Desktop\\CODATE\\DataBaseApi\\db_api\\db_api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "db_api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T21:56:00.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\codef\\Desktop\\CODATE\\DataBaseApi\\db_api\\db_api\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "db_api\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\codef\\Desktop\\CODATE\\DataBaseApi\\db_api\\db_api\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "db_api\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:24:38.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\codef\\Desktop\\CODATE\\DataBaseApi\\db_api\\db_api\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "db_api\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\codef\\Desktop\\CODATE\\DataBaseApi\\db_api\\db_api\\Models\\Register.cs",
+              "RelativeToolTip": "db_api\\Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:19:20.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\codef\\Desktop\\CODATE\\DataBaseApi\\db_api\\db_api\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "db_api\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\codef\\Desktop\\CODATE\\DataBaseApi\\db_api\\db_api\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "db_api\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:24:02.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

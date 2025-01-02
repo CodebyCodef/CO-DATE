@@ -1,0 +1,68 @@
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <ImageButton
+            android:id="@+id/back_button"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="end"
+            android:layout_marginBottom="8dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:src="@drawable/baseline_navigate_next_24"
+            android:contentDescription="Geri Dön" />
+
+        <ImageView
+            android:id="@+id/profileImageView"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="16dp"
+            android:src="@android:drawable/ic_menu_camera"
+            android:contentDescription="Profil Resmi"
+            android:clickable="true"
+            android:focusable="true" />
+
+        <EditText
+            android:id="@+id/biography"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginTop="16dp"
+            android:hint="Biyografinizi yazın"
+            android:gravity="top"
+            android:background="@android:drawable/edit_text"
+            android:padding="10dp"
+            android:inputType="textMultiLine" />
+
+        <!-- Biyografi Kayıt Butonu -->
+        <Button
+            android:id="@+id/save_biography"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="8dp"
+            android:text="Biyografiyi Kaydet" />
+
+        <Button
+            android:id="@+id/logout_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Hesaptan Çıkış Yap" />
+
+        <Button
+            android:id="@+id/delete_account_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Hesabı Sil" />
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>
